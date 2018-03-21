@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# #! = shebang permet de lancer une commande shell, doit être en première ligne de script!
+# #! = shebang permet de lancer un script python, doit être en première ligne de script!
 # ici sert à charger la version de l'utilisateur depuis son environnement python
 #dans le terminal: -rw-rw-r-- droit pour les users, group puis other r=read, w=write, x= exec
 
