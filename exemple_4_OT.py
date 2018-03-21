@@ -13,7 +13,7 @@ regex = r"(\w*),(.*)\n?"
 test_str = ("valeur, 456\nvaleur, 32\nvaleur, 5")
 
 matches = re.finditer(regex, test_str)
-Dickus = {}
+Dickus = dict()
 for matchNum, match in enumerate(matches):
     matchNum = matchNum + 1
 
